@@ -1,3 +1,6 @@
-#map{ 
-display:none
+.iframeStyle{
+    width:500px;
+    height:500px;
+    border: 1px solid rgba(0,0,0,0.1);
 }
+
