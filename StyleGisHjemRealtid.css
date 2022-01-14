@@ -1,1 +1,13 @@
+.iframeStyle{
+    width:500px;
+    height:500px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
 
+#floating-container-secondary{
+    display:none;
+}
+
+.leaflet-popup{
+    display:none;
+}
