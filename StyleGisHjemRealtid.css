@@ -24,10 +24,7 @@
     display:none;
 }
 
-#gc2-session-unlock{
+.embed-session{
     display:none;
 }
 
-#gc2-session-lock{
-    display:none;
-}
