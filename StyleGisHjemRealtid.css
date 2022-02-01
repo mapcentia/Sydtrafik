@@ -23,3 +23,7 @@
 #session{
     display:none !important;
 }
+
+[data-toggle="modal"] {
+    display: none;
+}
