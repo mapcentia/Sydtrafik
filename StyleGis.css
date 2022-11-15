@@ -7,3 +7,7 @@
 .leaflet-popup{
     display:none;
 }
+
+#custom-search{
+    display:none;
+}
