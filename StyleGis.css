@@ -1,17 +1,8 @@
-#floating-container-secondary{
-    display:none;
-}
-
 .leaflet-popup{
     display:none;
 }
 
 #place-search{
     display:none;
-}
-
-#full-screen-btn
-{
-  visibility: visible!important;
 }
 
