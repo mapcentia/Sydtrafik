@@ -22,10 +22,6 @@
     display:none;
 }
 
-.material-icons gc2-session-unlock{
-    display:none;
-}
-
-.material-icons gc2-session-lock{
+#session{
     display:none;
 }
