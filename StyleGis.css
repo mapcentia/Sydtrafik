@@ -1,1 +1,8 @@
 
+.leaflet-popup{
+    display:none;
+}
+
+#place-search{
+    display:none;
+}
